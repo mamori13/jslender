@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jslender:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/jslender_jar3</output-path>
+    <root id="archive" name="jslender.jar">
+      <element id="module-output" name="jslender" />
+    </root>
+  </artifact>
+</component>
