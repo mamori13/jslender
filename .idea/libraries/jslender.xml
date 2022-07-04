@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jslender">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/jslender.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
